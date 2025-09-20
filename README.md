@@ -1,6 +1,5 @@
 # 🧠 AI Research Agent  
 An AI-powered Research Agent that automates the process of searching, extracting, and summarizing information from the web. This agent acts as a virtual research assistant, making information retrieval more efficient and structured
-
 ---
 
 ## 🚀 Features  
